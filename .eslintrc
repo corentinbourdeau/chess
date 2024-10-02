@@ -1,0 +1,11 @@
+{
+  "extends": ["react-app", "eslint:recommended"],
+  "overrides": [
+    {
+      "files": ["**/*.js?(x)"],
+      "rules": {
+        // Règles spécifiques au JavaScript
+      }
+    }
+  ]
+}
